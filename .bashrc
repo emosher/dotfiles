@@ -50,7 +50,7 @@ UNDERLINE=$(tput smul)
 # this prompt is a green username, black @ symbol, cyan host, magenta current working directory and white git branch (only shows if you're in a git branch)
 # unstaged and untracked symbols are shown, too (see above)
 # this prompt uses the short colour codes defined above
-PS1='${GREEN}\u${BLACK}@${CYAN}\h:${MAGENTA}\w${WHITE}`__git_ps1 " (%s)"`\$ '
+# PS1='${GREEN}\u${BLACK}@${CYAN}\h:${MAGENTA}\w${WHITE}`__git_ps1 " (%s)"`\$ '
  
 # this is a cyan username, @ symbol and host, magenta current working directory and white git branch
 # it uses the shorter , but visibly more complex, codes for text colours (shorter because the colour code definitions aren't needed)
