@@ -3,7 +3,7 @@ dotfiles
 
 Dot files for bash and git.
 
-### Usage Instrucutions
+### Usage Instructions
 - Install git with `sudo yum install git` or similar
 - Clone the repo
 - Run `init.sh`
