@@ -1,5 +1,6 @@
 [alias]
-	st = status
+	s = status
 	br = branch
 	co = checkout 
 	ci = commit
+  st = stash
