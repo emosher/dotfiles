@@ -3,4 +3,5 @@
 	br = branch
 	co = checkout 
 	ci = commit
-  sh = stash
+	sh = stash
+	a = add
